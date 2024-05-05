@@ -1,4 +1,1 @@
 this is the sample file for testing
-this line is added frome git hub 
-this third line added from local machine
-yes mr khan we receivd your changes and its looks like good
